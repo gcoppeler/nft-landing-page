@@ -1,6 +1,6 @@
 # Basic dApp NFT Landing Page
 
-This repo is a work-in-progress and pairs with my Mint 10k NFT project. 
+This repo is a work-in-progress and pairs with my Mint 10k NFT project.
 
 ## Video Walkthrough
 
@@ -35,3 +35,7 @@ Associated Source Code: [v1.1.0](https://github.com/codeSTACKr/nft-landing-page/
   - Colors
 
 ## Watch the [video walkthroughs](#video-walkthrough) above for more detailed instructions.
+
+## Netlify Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01ebb518-4ae8-4d48-8724-d6cf8724bf34/deploy-status)](https://app.netlify.com/sites/confident-saha-315563/deploys)
